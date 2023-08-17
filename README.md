@@ -1,16 +1,5 @@
-# x6
-
-#EXTM3U x-tvg-url="https://s.id/maestroepg" refresh="1440" billed-msg="PASTIKAN BELI DARI SHOPEE MAESTRO DIGITAL, PEMBELIAN SELAIN ITU ADALAH SCAMMER" 
-
-  
-#EXTINF:-1 tvg-id="Maestro" tvg-name="Maestro Digital" group-title="SHOPEE MAESTRO DIGITAL" group-logo="https://i.ibb.co/BzZTrR1/shopee-logo-40482.png" tvg-logo="https://i.ibb.co/BzZTrR1/shopee-logo-40482.png",PASTIKAN ORIGINAL DARI MAESTRO DIGITAL
-https://unifi-live05.secureswiftcontent.com:443/UnifiHD
-  
   
 ###################### BACKUP ######################
-
-
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
